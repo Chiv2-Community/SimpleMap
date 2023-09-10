@@ -1,13 +1,13 @@
 {
   "repo_url": "https://github.com/Chiv2-Community/SimpleMap",
   "name": "SimpleMap",
-  "description": "A simple map that depends on the health charger",
+  "description": "A simple map that depends on the health charger\n\nExample Usage: open agmods?map=simplemap",
   "mod_type": "Shared",
   "authors": [ "DrLong" ],
   "dependencies": [
     {
       "repo_url": "https://github.com/Chiv2-Community/healthCharger",
-      "version": "v1.0.0"
+      "version": "v1.0.1"
     }
   ],
   "tags": [ "Map" ]
