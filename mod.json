@@ -7,7 +7,7 @@
   "dependencies": [
     {
       "repo_url": "https://github.com/Chiv2-Community/healthCharger",
-      "version": "v1.0.1"
+      "version": "v1.0.0"
     }
   ],
   "tags": [ "Map" ]
